@@ -1,4 +1,4 @@
-I am a Software Engineer and Web Developer with a projected Career Certificate in programming from Seattle Central College (2020). My focus is using object oriented programming to develop clean code that's not only easy to maintain but the end result emphasizes UX no matter what the program will be implemented for. I strive to be an innovative problem solver by combining the diverse set of skills that I've cultivated throughout my life.
+My focus is using object oriented programming to develop clean code that's not only easy to maintain but the end result emphasizes UX no matter what the program will be implemented for. I am a Software Engineer and Web Developer with a projected Career Certificate in programming from Seattle Central College (2020). I strive to be an innovative problem solver by combining the diverse set of skills that I've cultivated throughout my life.
 
 GitHub: https://github.com/joji-harada
 LinkedIn: https://www.linkedin.com/in/george-allison-728975139/
